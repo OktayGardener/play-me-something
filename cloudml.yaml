@@ -1,0 +1,5 @@
+trainingInput:
+  scaleTier: CUSTOM
+  masterType: complex_model_l
+  pythonModule: model.run
+  region: us-central1

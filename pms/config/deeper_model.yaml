@@ -1,0 +1,11 @@
+model-class: DeeperContextModel
+country-count: 60
+context-count: 100000
+city-count: 5000
+records-dir: gs://play-me-something-thesis/tmp/oktay/2017-04-09-week/tfrecords
+test-records-dir: gs://play-me-something-thesis/tmp/oktay/2017-04-10-eval-c-users/smallset
+checkpoint-dir: /Users/professoroaks/Documents/dev/playmesomething-ml/tmp/final_newarch_init_bias_embedding_minus_features
+country-tsv: gs://play-me-something-thesis/tmp/oktay/2017-04-09-day/tsv/countries.tsv
+context-tsv: gs://play-me-something-thesis/tmp/oktay/2017-04-09-day/tsv/playcontexts_named.tsv
+platform-tsv: gs://play-me-something-thesis/tmp/oktay/2017-04-09-day/tsv/platforms.tsv
+city-tsv: gs://play-me-something-thesis/tmp/oktay/2017-04-09-day/tsv/cities.tsv
