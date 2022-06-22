@@ -3,7 +3,7 @@ bz2file==0.98
 funcsigs==1.0.2
 gensim==0.13.3
 mock==2.0.0
-numpy==1.11.3
+numpy==1.22.0
 pbr==1.10.0
 protobuf==3.2.0
 requests==2.12.3
